@@ -32,7 +32,9 @@ Windows 10 Home Country Specific - PVMJN-6DFY6-9CCP6-7BKTT-D3WVR
 2] Type in the following lines:
 
 ‣ `slmgr/ipk yourselectedkeyhere`
+
 ‣ `slmgr /skms kms.digiboy.ir`
+
 ‣ `slmgr /ato`
 
 Congratulations your windows should now be activated!
